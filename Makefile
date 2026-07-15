@@ -2,7 +2,7 @@
 ### Makefile for CalcYouLater Project
 ### CalcYouLater is an RPN calculator
 ###
-### Author: Charlie Man
+### Author: Charles Man
 
 MAKEFLAGS += -L
 

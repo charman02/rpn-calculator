@@ -1,9 +1,9 @@
 /*
  *  RPNCalc.h
- *  Charlie Man
+ *  Charles Man
  *  2/27/23
  *
- *  CS 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Purpose: This is the class interface for RPNCalc. It contains all
  *           of the public and private member functions and variables for the

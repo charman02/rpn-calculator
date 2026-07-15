@@ -1,9 +1,9 @@
 /*
  *  parser.cpp
- *  Charlie Man
+ *  Charles Man
  *  2/28/23
  *
- *  CS 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Purpose: This is the function definition for parseRString.
  * 

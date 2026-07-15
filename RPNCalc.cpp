@@ -1,9 +1,9 @@
 /*
  *  RPNCalc.cpp
- *  Charlie Man
+ *  Charles Man
  *  3/3/23
  *
- *  CS 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Purpose: This is the class implementation for RPNCalc. It contains
  *           all definitions for both public and private member functions of
