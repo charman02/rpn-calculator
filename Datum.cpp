@@ -1,6 +1,6 @@
 /*
  *  Datum.cpp
- *  CS 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Implementation of the Datum class. A Datum stores exactly one of an int,
  *  a bool, or an rstring, tracked by a type tag. Accessors verify the tag and

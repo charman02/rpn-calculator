@@ -1,6 +1,6 @@
 /*
  *  Datum.h
- *  CS 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Interface of the Datum class: a tagged value that can hold exactly one of
  *  an int, a bool, or an rstring (a string). Every calculator value lives in

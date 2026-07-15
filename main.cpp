@@ -1,9 +1,9 @@
 /*
  *  main.cpp
- *  Charlie Man
+ *  Charles Man
  *  3/3/23
  *
- *  COMP 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Purpose: This is the Main file that creates an object of the RPNCalc
  *           class and calls run on it.

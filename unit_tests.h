@@ -1,9 +1,9 @@
 /*
  *  unit_tests.h
- *  Charlie Man
+ *  Charles Man
  *  2/28/23
  *
- *  CS 15 Proj 2 CalcYouLater
+ *  CalcYouLater
  *
  *  Purpose: This file contains all unit tests for testing the member
  *           functions of the DatumStack class.

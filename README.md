@@ -7,9 +7,8 @@ can be stored on the stack and later executed with `exec`, branched on with
 `if`, or loaded from disk with `file`. This makes the calculator *self-hosting*:
 programs are just data pushed onto the same stack the calculator computes with.
 
-Built for Tufts **CS 15 (Data Structures)**, Project 2. The calculator is
-implemented on top of a hand-written stack data structure, which was designed
-and unit-tested first.
+The calculator is implemented on top of a hand-written stack data
+structure, which was designed and unit-tested first.
 
 ## Tech stack
 
@@ -142,7 +141,3 @@ validated by running programs through it and diff-testing the output.
 | `Datum.h` / `.cpp` | Tagged value type (int / bool / rstring) |
 | `unit_tests.h` | Unit tests for `DatumStack` |
 | `Makefile` | Build rules |
-
----
-
-*Coursework project (Tufts University, CS 15 — Data Structures).*
